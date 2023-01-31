@@ -1,0 +1,25 @@
+{
+    "name": "SweetPastel",
+    "comment": "A smooth pinkish color scheme inspired by pastel foods.",
+    "use-theme-colors": false,
+    "background-color": "#1B1F23",
+    "foreground-color": "#FFDEDE",
+    "palette": [
+        "#161A1E",
+        "#E5A3A1",
+        "#B4E3AD",
+        "#ECE3B1",
+        "#A3CBE7",
+        "#CDACE8",
+        "#C9D4FF",
+        "#343A40",
+        "#43474B",
+        "#F9B7B5",
+        "#C8F7C1",
+        "#FFF7C5",
+        "#B7DFFB",
+        "#E2C0FC",
+        "#DDE8FF",
+        "#F8F9FA"
+    ]
+}
