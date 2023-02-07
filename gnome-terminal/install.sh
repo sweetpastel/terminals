@@ -90,7 +90,7 @@ dconf write "$profile_path"highlight-colors-set "false"
 
 alert -w "Applying color palette..."
 
-dconf write "$profile_path"palette "['#161a1e', '#e5a3a1', '#b4e3ad', '#ece3b1', '#a3cbe7', '#ceace8', '#c9d4ff', '#343a40', '#43474b', '#f9b7b5', '#c8f7c1', '#fff7c5', '#b7dffb', '#e2c0fc', '#dde8ff', '#f8f9fa']"
+dconf write "$profile_path"palette "['#161a1e', '#e5a3a1', '#b4e3ad', '#ece3b1', '#a3cbe7', '#ceace8', '#c9d4ff', '#eeeff0', '#43474b', '#f9b7b5', '#c8f7c1', '#fff7c5', '#b7dffb', '#e2c0fc', '#dde8ff', '#f8f9fa']"
 
 echo
 
