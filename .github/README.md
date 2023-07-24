@@ -15,7 +15,7 @@ gnome terminal themed with **sweetpastel**
 3. run the script below in your terminal and enter the ``Name of the Profile`` you just created
 
 ```sh
-curl -fsSL "https://raw.githubusercontent.com/SweetPastel/Gnome-Terminal/main/install" | bash -s "Name of the Profile"
+curl -fsSL "https://raw.githubusercontent.com/SweetPastel/terminals/main/gnome-terminal/install.sh" | sh -s "Name of the Profile"
 ```
 
 ## acknowledgements
