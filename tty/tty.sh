@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 red=229,163,161
 green=180,227,173
